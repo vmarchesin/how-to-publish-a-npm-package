@@ -1,0 +1,28 @@
+{
+  "name": "how-to-publish-a-npm-package",
+  "version": "1.0.0",
+  "description": "A quick tutorial on how you can publish your own npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmarchesin/how-to-publish-a-npm-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Vinicius Marchesin Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmarchesin/how-to-publish-a-npm-package/issues"
+  },
+  "homepage": "https://github.com/vmarchesin/how-to-publish-a-npm-package#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
