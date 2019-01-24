@@ -2,7 +2,7 @@
 
 This is a quick tutorial on how you can publish your own npm package with minimal configuration. This will cover the basic setup, how npm works and how to ship good quality code.
 
-The full tutorial can be found at my [Medium blog](https://medium.com/@vmarchesin/ho-to-publish-a-npm-package-in-four-steps-2fd021b895e4).
+The full tutorial can be found at my [Medium blog](https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab88e852).
 
 You'll need the following packages:
 
