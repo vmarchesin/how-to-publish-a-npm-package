@@ -1,6 +1,6 @@
 {
   "name": "how-to-publish-a-npm-package",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A quick tutorial on how you can publish your own npm package.",
   "main": "dist/index.js",
   "scripts": {
